@@ -1,0 +1,11 @@
+appMetadataVersion=1.0
+androidGradlePluginVersion=7.0.4{
+  "version": 3,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.android.foodorderapp",
+  "variantName": "debug",
+  "elements": []
+}

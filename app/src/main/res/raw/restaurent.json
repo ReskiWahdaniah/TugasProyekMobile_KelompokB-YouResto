@@ -1,0 +1,477 @@
+[
+    {
+      "name":"Pizza Hut",
+      "address":"Hertasning",
+      "delivery_charge": 5,
+      "image":"https://d3dwwd0h9gl2qw.cloudfront.net/wp-content/uploads/2019/01/10181328/Pizza-Hut-logo-Illustrator-01.png",
+
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "SPLITZA",
+          "price": 80000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/menu-pizza-hut-terbaru-splitza.jpg"
+        },
+        {
+          "name": "Duet Hemat Pizza",
+          "price": 165000,
+          "url": "https://hargamenu.net/wp-content/uploads/2016/12/promo-duet-hemat-pizza-hut.jpg"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 70000,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Pizza Stuffed Crust",
+          "price": 65000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Stuffed-Crust.jpg"
+        },
+        {
+          "name": "Pizza Cheesy Crust",
+          "price": 55000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Cheesy-Crust.jpg"
+        },
+        {
+          "name": "Pizza Cheesy Bites",
+          "price": 65000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Cheesy-Bites.jpg"
+        },
+        {
+          "name": "Crown Crust Pizza",
+          "price": 50000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Crown-Crust-Pizza.jpg"
+        },
+        {
+          "name": "Dabu-Dabu Pizza",
+          "price": 45000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Dabu-Dabu-Pizza-Hut.jpg"
+        },
+        {
+          "name": "Hawaiian Chicken Pizza",
+          "price": 55000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Hawaiian-Chicken-Pizza-Hut.jpg"
+        },
+        {
+          "name": "Pan Pizza",
+          "price": 35000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/pan-pizza-pizza-hut.jpg"
+        }
+      ]
+    },
+    {
+      "name":"KFC",
+      "address":"Alauddin",
+      "delivery_charge": 4,
+      "image":"https://img.era.id/k3CaR6-_utm0QBdxm6ESWI0Ua9un69WSMmTf1m8mZlk/rs:fill:1280:720/g:sm/bG9jYWw6Ly8vcHVibGlzaGVycy80MTM1Mi8yMDIwMTAyMjA4MjEtbWFpbi5qcGc.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Crispy Box",
+          "price": 45000,
+          "url": "https://files.kfcku.com/uploads/media/dummy/food/kfc-web_crispy-box_l.png"
+        },
+        {
+          "name": "Colonel Combo",
+          "price": 125000,
+          "url": "https://files.kfcku.com/uploads/media/dummy/food/praktis/kfc-web_colonelyakinikuc_l.png"
+        },
+        {
+          "name": "Combo Krispy",
+          "price": 60000,
+          "url": "https://files.kfcku.com/uploads/media/food-menu/kombo/large/kfc-web_zuperkrunchc_l.png"
+        },
+        {
+          "name": "Krispy Burger",
+          "price": 30000,
+          "url": "https://files.kfcku.com/uploads/media/food-menu/praktis/large/kfc-web_zuper-krunch_l_2.png"
+        },
+        {
+          "name": "Milkshake",
+          "price": 23000,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 24000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "O.R Burger",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+        },
+        {
+          "name": "McNuggets",
+          "price": 35000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 50000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "McMuffin Meal",
+          "price": 45000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Hertasning",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 18000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 20000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 25000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 25000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 30000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 30000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Burger King",
+    "address":"Pettarani",
+    "delivery_charge": 6,
+    "image": "https://logodownload.org/wp-content/uploads/2015/02/burger-king-logo-0.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 20000,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 35000,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Mozarella Crispy",
+        "price": 30000,
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/05/01/menu-baru-burger-king-camilan-e-20210501120838.jpg"
+      },
+      {
+        "name": "Paket Hemat King",
+        "price": 35000,
+        "url": "https://cdn-2.tstatic.net/madura/foto/bank/images/burger-king-menu.jpg"
+      },
+      {
+        "name": "Paket Beef Burger",
+        "price": 45000,
+        "url": "https://cf.shopee.co.id/file/2f09e992dc49ca55653b2f388537dd95"
+      },
+      {
+        "name": "Mozarella Burger",
+        "price": 65000,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAd2bcla6M-oorFzRl46UwAdBkKfyhm1YeATtFJwLhyNP0sei6m-HqCFJf1x-vGI2-9V4&usqp=CAU"
+      }
+    ]
+  }
+]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  [
+    {
+      "name":"Pizza Hut",
+      "address":"Hertasning",
+      "delivery_charge": 5,
+      "image":"https://d3dwwd0h9gl2qw.cloudfront.net/wp-content/uploads/2019/01/10181328/Pizza-Hut-logo-Illustrator-01.png",
+
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "SPLITZA",
+          "price": 80000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/menu-pizza-hut-terbaru-splitza.jpg"
+        },
+        {
+          "name": "Duet Hemat Pizza",
+          "price": 165000,
+          "url": "https://hargamenu.net/wp-content/uploads/2016/12/promo-duet-hemat-pizza-hut.jpg"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 70000,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Pizza Stuffed Crust",
+          "price": 65000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Stuffed-Crust.jpg"
+        },
+        {
+          "name": "Pizza Cheesy Crust",
+          "price": 55000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Cheesy-Crust.jpg"
+        },
+        {
+          "name": "Pizza Cheesy Bites",
+          "price": 65000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Pizza-Cheesy-Bites.jpg"
+        },
+        {
+          "name": "Crown Crust Pizza",
+          "price": 50000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Crown-Crust-Pizza.jpg"
+        },
+        {
+          "name": "Dabu-Dabu Pizza",
+          "price": 45000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Dabu-Dabu-Pizza-Hut.jpg"
+        },
+        {
+          "name": "Hawaiian Chicken Pizza",
+          "price": 55000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/Hawaiian-Chicken-Pizza-Hut.jpg"
+        },
+        {
+          "name": "Pan Pizza",
+          "price": 35000,
+          "url": "https://hargamenu.net/wp-content/uploads/2018/03/pan-pizza-pizza-hut.jpg"
+        }
+      ]
+    },
+    {
+      "name":"KFC",
+      "address":"Alauddin",
+      "delivery_charge": 4,
+      "image":"https://img.era.id/k3CaR6-_utm0QBdxm6ESWI0Ua9un69WSMmTf1m8mZlk/rs:fill:1280:720/g:sm/bG9jYWw6Ly8vcHVibGlzaGVycy80MTM1Mi8yMDIwMTAyMjA4MjEtbWFpbi5qcGc.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Crispy Box",
+          "price": 45000,
+          "url": "https://files.kfcku.com/uploads/media/dummy/food/kfc-web_crispy-box_l.png"
+        },
+        {
+          "name": "Colonel Combo",
+          "price": 125000,
+          "url": "https://files.kfcku.com/uploads/media/dummy/food/praktis/kfc-web_colonelyakinikuc_l.png"
+        },
+        {
+          "name": "Combo Krispy",
+          "price": 60000,
+          "url": "https://files.kfcku.com/uploads/media/food-menu/kombo/large/kfc-web_zuperkrunchc_l.png"
+        },
+        {
+          "name": "Krispy Burger",
+          "price": 30000,
+          "url": "https://files.kfcku.com/uploads/media/food-menu/praktis/large/kfc-web_zuper-krunch_l_2.png"
+        },
+        {
+          "name": "Milkshake",
+          "price": 23000,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 24000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "O.R Burger",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+        },
+        {
+          "name": "McNuggets",
+          "price": 35000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 50000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "McMuffin Meal",
+          "price": 45000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Hertasning",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Chocolate Shake",
+        "price": 18000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 20000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 25000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 25000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 30000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin Meal",
+        "price": 30000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Burger King",
+    "address":"Pettarani",
+    "delivery_charge": 6,
+    "image": "https://logodownload.org/wp-content/uploads/2015/02/burger-king-logo-0.png",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 20000,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 35000,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "Mozarella Crispy",
+        "price": 30000,
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2021/05/01/menu-baru-burger-king-camilan-e-20210501120838.jpg"
+      },
+      {
+        "name": "Paket Hemat King",
+        "price": 35000,
+        "url": "https://cdn-2.tstatic.net/madura/foto/bank/images/burger-king-menu.jpg"
+      },
+      {
+        "name": "Paket Beef Burger",
+        "price": 45000,
+        "url": "https://cf.shopee.co.id/file/2f09e992dc49ca55653b2f388537dd95"
+      },
+      {
+        "name": "Mozarella Burger",
+        "price": 65000,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAd2bcla6M-oorFzRl46UwAdBkKfyhm1YeATtFJwLhyNP0sei6m-HqCFJf1x-vGI2-9V4&usqp=CAU"
+      }
+    ]
+  }
+]
